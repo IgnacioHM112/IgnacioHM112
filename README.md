@@ -7,8 +7,9 @@
 *   **Database:** MySQL.
 *   **Tools:** Git, GitHub, Microsoft Excel.
 
-### 🚀 Proyecto Principal
+### 🚀 Proyectos Personales
 *   **TechZone:** Desarrollo de arquitectura de servidor y base de datos para e-commerce de hardware.
+*   **Mi Bar:** Desarrollo de web para bares y restaurantes.
 
 ### 📚 Actualmente estudiando
 *   Laboratorio 3 (Node.js & MySQL).
