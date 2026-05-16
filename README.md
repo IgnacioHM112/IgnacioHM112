@@ -43,8 +43,3 @@ Hola, soy Ignacio Mello 👋
   📫 Contacto
    * Gmail Personal: ignamello2002@gmail.com
    * LinkedIn: https://www.linkedin.com/in/ignacio-mello-b75204405/
-
-  ---
-
-  📈 Estadísticas de GitHub
-  !Tus estadísticas de GitHub (https://github-readme-stats.vercel.app/api?username=IgnacioHM112&show_icons=true&theme=tokyonight)
