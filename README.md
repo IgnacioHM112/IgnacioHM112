@@ -37,12 +37,7 @@
 
 ---
 
-### 📚 Actualmente estudiando
-* **Ingeniería / Licenciatura en Sistemas (UDA):** Arquitectura de software, desarrollo Backend y sistemas de comunicaciones.
-
----
-
 ### 📫 Contacto
-* **Portfolio:** [portfolio-self-eight-62.vercel.app](https://portfolio-self-eight-62.vercel.app/)
 * **Email:** [ignamello2002@gmail.com](mailto:ignamello2002@gmail.com)
 * **LinkedIn:** [Ignacio Mello](https://www.linkedin.com/in/ignacio-mello-b75204405/)
+* **Portfolio:** [portfolio-self-eight-62.vercel.app](https://portfolio-self-eight-62.vercel.app/)
